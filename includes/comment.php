@@ -47,7 +47,7 @@ class Comment extends DatabaseObject {
 		$mail->Port     = 587;
 		$mail->SMTPAuth = true;
 		$mail->Username = "s.shcherba@gmail.com";
-		$mail->Password = "cThUtQ86";
+		$mail->Password = "*";
 		//$mail->isHTML(true);
 		$mail->FromName = "Photo Gallery";
 		//$mail->From     = "s.shcherba@gmail.com";
